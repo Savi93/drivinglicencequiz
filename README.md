@@ -9,5 +9,5 @@ The guest (not logged as user) can only choose to start a new quiz or see the st
 The quiz respects the Italian Highway Code and is composed by 40 true-false questions and the user has 30 minutes to complete the quiz. 
 Within the quiz frame, the user can check the errors in a completed quiz, restart with a new quiz or leave the page to check its statistics. 
 
-### Technologies used: PHP, Javascript, HTML, CSS, mySQL
+### Technologies used: PHP, mySQL, Javascript, HTML, Bootstrap, CSS
 www.drivinglicencequiz.altervista.org
