@@ -12,3 +12,5 @@ Within the quiz frame, the user can check the errors in a completed quiz, restar
 
 ### Technologies used: PHP, mySQL, Javascript, HTML, Bootstrap, CSS
 www.drivinglicencequiz.altervista.org
+
+![Alt text](example.png)
